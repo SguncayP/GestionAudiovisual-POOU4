@@ -17,5 +17,10 @@ test/                # Pruebas unitarias JUnit para validación del modelo
 Java Development Kit (JDK) 11 o superior.
 IDE Eclipse.
 JUnit 6.
-📥 Instrucciones de EjecuciónClonar el repositorio:Bashgit clone [Inserta aquí tu enlace de GitHub]
-Importar en Eclipse:Ve a File > Import > General > Existing Projects into Workspace.Selecciona la carpeta del proyecto.Ejecutar la aplicación: Navega al paquete principal y ejecuta la clase Main.java.Ejecutar las pruebas: Haz clic derecho sobre la carpeta test > Run As > JUnit Test.👤 AutorSergio Guncay - Universidad Politécnica Salesiana.  Notas para tu entrega:Asegúrate de reemplazar el enlace en la sección 1. Clonar el repositorio con la URL de tu repositorio real.Este README.md cumple con los requerimientos de documentación solicitados en la Etapa 4 de tu guía de actividades. 
+📥 Instrucciones de EjecuciónClonar el repositorio:
+Bashgit clone [Inserta aquí tu enlace de GitHub]
+Importar en Eclipse:Ve a File > Import > General > Existing Projects into Workspace.Selecciona la carpeta del proyecto.
+Ejecutar la aplicación: Navega al paquete principal y ejecuta la clase Main.java.
+Ejecutar las pruebas: Haz clic derecho sobre la carpeta test > Run As > JUnit Test.
+
+👤 AutorSergio Guncay - Universidad Politécnica Salesiana. 
