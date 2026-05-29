@@ -34,9 +34,17 @@ JUnit 6.
 
 📥 Instrucciones de EjecuciónClonar el repositorio:
 
-Bashgit clone [https://github.com/SguncayP/GestionAudiovisual-POO]
+Instrucciones de Instalación y Uso Guía de Instalación en Eclipse Clonar el repositorio: En Eclipse, ve a File > Import > Git > Projects from Git.
 
-Importar en Eclipse:Ve a File > Import > General > Existing Projects into Workspace.Selecciona la carpeta del proyecto.
+Seleccionar Fuente: Elige Clone URI.
+
+Configurar URI: Pega el siguiente enlace en el campo URI: [(https://github.com/SguncayP/GestionAudiovisual-POO))
+
+Finalizar: Sigue el asistente para importar el proyecto poo_unidad1.
+
+Guía de Uso Navega en el proyecto hasta src/poo/PruebaAudioVisual.java.
+
+Haz clic derecho y selecciona Run As > Java Application.
 
 Ejecutar la aplicación: Navega al paquete principal y ejecuta la clase Main.java.
 
