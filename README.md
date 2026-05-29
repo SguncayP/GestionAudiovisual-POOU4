@@ -34,7 +34,7 @@ JUnit 6.
 
 📥 Instrucciones de EjecuciónClonar el repositorio:
 
-Bashgit clone [Inserta aquí tu enlace de GitHub]
+Bashgit clone [https://github.com/SguncayP/GestionAudiovisual-POO]
 
 Importar en Eclipse:Ve a File > Import > General > Existing Projects into Workspace.Selecciona la carpeta del proyecto.
 
